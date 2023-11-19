@@ -5,3 +5,6 @@ Assignment 2 Part 2
 3. Docker Compose file created for web & db
 4. Dcoker Compose Up Command and running on localhost:8001
 5. Modify the php file and other lines are also working
+6. Docker Scale
+   >docker compose scale
+requires at least 1 arg(s), only received 0
