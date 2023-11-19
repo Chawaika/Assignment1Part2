@@ -1,6 +1,7 @@
-<h1>Assignment 2 Part 2</h1>
+Assignment 2 Part 2
 
-1. <h3>Docker File created for web(php)</h3>
-2. <h3>Docker File created for db (mysql)</h3>
-3. <h3>Docker Compose file created for web & db</h3>
-4. <h3>Dcoker Compose Up Command and running on localhost:8001</h3>
+1. Docker File created for web(php)
+2. Docker File created for db (mysql)
+3. Docker Compose file created for web & db
+4. Dcoker Compose Up Command and running on localhost:8001
+5. Modify the php file and other lines are also working
